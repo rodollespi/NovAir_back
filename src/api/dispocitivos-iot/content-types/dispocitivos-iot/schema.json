@@ -1,0 +1,138 @@
+{
+  "kind": "singleType",
+  "collectionName": "dispocitivos_iots",
+  "info": {
+    "singularName": "dispocitivos-iot",
+    "pluralName": "dispocitivos-iots",
+    "displayName": "dispositivos_iot"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    },
+    "descripcion": {
+      "type": "text"
+    },
+    "titulo_1": {
+      "type": "string"
+    },
+    "descripcion_1": {
+      "type": "text"
+    },
+    "titulo_2": {
+      "type": "string"
+    },
+    "descripcion_3": {
+      "type": "text"
+    },
+    "titulo_4": {
+      "type": "string"
+    },
+    "descripcion_4": {
+      "type": "text"
+    },
+    "titulo_5": {
+      "type": "string"
+    },
+    "descripcon_5": {
+      "type": "text"
+    },
+    "titulo_6": {
+      "type": "string"
+    },
+    "columna_name_1": {
+      "type": "string"
+    },
+    "columna_name_2": {
+      "type": "string"
+    },
+    "columna_name_3": {
+      "type": "string"
+    },
+    "columna_name_4": {
+      "type": "string"
+    },
+    "columna_name_5": {
+      "type": "string"
+    },
+    "columna_1_1": {
+      "type": "string"
+    },
+    "columna_1_2": {
+      "type": "string"
+    },
+    "columna_1_3": {
+      "type": "string"
+    },
+    "columna_1_4": {
+      "type": "string"
+    },
+    "columna_1_5": {
+      "type": "string"
+    },
+    "columna_2_1": {
+      "type": "string"
+    },
+    "columna_2_2": {
+      "type": "string"
+    },
+    "columna_2_3": {
+      "type": "string"
+    },
+    "columna_2_4": {
+      "type": "string"
+    },
+    "columna_2_5": {
+      "type": "string"
+    },
+    "columna_3_1": {
+      "type": "string"
+    },
+    "columna_3_2": {
+      "type": "string"
+    },
+    "columna_3_3": {
+      "type": "string"
+    },
+    "columna_3_4": {
+      "type": "string"
+    },
+    "columna_3_5": {
+      "type": "string"
+    },
+    "columna_4_1": {
+      "type": "string"
+    },
+    "columna_4_2": {
+      "type": "string"
+    },
+    "columna_4_3": {
+      "type": "string"
+    },
+    "columna_4_4": {
+      "type": "string"
+    },
+    "columna_4_5": {
+      "type": "string"
+    },
+    "columna_5_1": {
+      "type": "string"
+    },
+    "columna_5_2": {
+      "type": "string"
+    },
+    "columna_5_3": {
+      "type": "string"
+    },
+    "columna_5_4": {
+      "type": "string"
+    },
+    "columna_5_5": {
+      "type": "string"
+    }
+  }
+}

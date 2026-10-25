@@ -1,0 +1,57 @@
+{
+  "kind": "singleType",
+  "collectionName": "recomendacions",
+  "info": {
+    "singularName": "recomendacion",
+    "pluralName": "recomendacions",
+    "displayName": "recomendacion"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    },
+    "descripcion": {
+      "type": "text"
+    },
+    "titulo_1": {
+      "type": "string"
+    },
+    "descripcion_1": {
+      "type": "text"
+    },
+    "titulo_2": {
+      "type": "string"
+    },
+    "descripcion_2": {
+      "type": "text"
+    },
+    "titulo_3": {
+      "type": "string"
+    },
+    "descripcion_3": {
+      "type": "text"
+    },
+    "titulo_4": {
+      "type": "string"
+    },
+    "descripcion_4": {
+      "type": "text"
+    },
+    "titulo_5": {
+      "type": "string"
+    },
+    "descripcion_5": {
+      "type": "text"
+    },
+    "titulo_6": {
+      "type": "string"
+    },
+    "descripcion_6": {
+      "type": "text"
+    }
+  }
+}
